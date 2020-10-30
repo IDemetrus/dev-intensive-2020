@@ -4,7 +4,7 @@
             "outputFile": "C:\\Android\\Projects\\Devintensive\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-h480dp-land-v13\\values-h480dp-land-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\idv\\.gradle\\caches\\transforms-2\\files-2.1\\e384bf6580860a38b194ae77aa3fbfd7\\material-1.1.0\\res\\values-h480dp-land-v13\\values-h480dp-land-v13.xml",
+                    "source": "C:\\Users\\idv\\.gradle\\caches\\transforms-2\\files-2.1\\4b5bf9de51d89be3fa74e63160c491d0\\material-1.2.1\\res\\values-h480dp-land-v13\\values-h480dp-land-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
                         "startColumns": "4,4,4,4,4,4,4,4,4",

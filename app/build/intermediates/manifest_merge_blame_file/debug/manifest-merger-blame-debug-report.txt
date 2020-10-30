@@ -1,6 +1,6 @@
 1<?xml version="1.0" encoding="utf-8"?>
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-3    package="com.example.devintensive"
+3    package="ru.skillbranch.devintensive"
 4    android:versionCode="1"
 5    android:versionName="1.0" >
 6
@@ -15,7 +15,7 @@
 12        android:allowBackup="true"
 12-->C:\Android\Projects\Devintensive\app\src\main\AndroidManifest.xml:6:9-35
 13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-13-->[androidx.core:core:1.2.0] C:\Users\idv\.gradle\caches\transforms-2\files-2.1\c2756f8bce6aefcee335533469a6c071\core-1.2.0\AndroidManifest.xml:24:18-86
+13-->[androidx.core:core:1.3.2] C:\Users\idv\.gradle\caches\transforms-2\files-2.1\7aac5c5c522df5bfe2bbd59f99e79e78\core-1.3.2\AndroidManifest.xml:24:18-86
 14        android:debuggable="true"
 15        android:extractNativeLibs="false"
 16        android:icon="@mipmap/ic_launcher"
@@ -26,23 +26,22 @@
 18-->C:\Android\Projects\Devintensive\app\src\main\AndroidManifest.xml:9:9-54
 19        android:supportsRtl="true"
 19-->C:\Android\Projects\Devintensive\app\src\main\AndroidManifest.xml:10:9-35
-20        android:testOnly="true"
-21        android:theme="@style/Theme.Devintensive" >
-21-->C:\Android\Projects\Devintensive\app\src\main\AndroidManifest.xml:11:9-50
-22        <activity android:name="com.example.devintensive.MainActivity" >
-22-->C:\Android\Projects\Devintensive\app\src\main\AndroidManifest.xml:12:9-18:20
-22-->C:\Android\Projects\Devintensive\app\src\main\AndroidManifest.xml:12:19-47
-23            <intent-filter>
-23-->C:\Android\Projects\Devintensive\app\src\main\AndroidManifest.xml:13:13-17:29
-24                <action android:name="android.intent.action.MAIN" />
-24-->C:\Android\Projects\Devintensive\app\src\main\AndroidManifest.xml:14:17-69
-24-->C:\Android\Projects\Devintensive\app\src\main\AndroidManifest.xml:14:25-66
-25
-26                <category android:name="android.intent.category.LAUNCHER" />
-26-->C:\Android\Projects\Devintensive\app\src\main\AndroidManifest.xml:16:17-77
-26-->C:\Android\Projects\Devintensive\app\src\main\AndroidManifest.xml:16:27-74
-27            </intent-filter>
-28        </activity>
-29    </application>
-30
-31</manifest>
+20        android:theme="@style/Theme.Devintensive" >
+20-->C:\Android\Projects\Devintensive\app\src\main\AndroidManifest.xml:11:9-50
+21        <activity android:name="ru.skillbranch.devintensive.MainActivity" >
+21-->C:\Android\Projects\Devintensive\app\src\main\AndroidManifest.xml:12:9-18:20
+21-->C:\Android\Projects\Devintensive\app\src\main\AndroidManifest.xml:12:19-47
+22            <intent-filter>
+22-->C:\Android\Projects\Devintensive\app\src\main\AndroidManifest.xml:13:13-17:29
+23                <action android:name="android.intent.action.MAIN" />
+23-->C:\Android\Projects\Devintensive\app\src\main\AndroidManifest.xml:14:17-69
+23-->C:\Android\Projects\Devintensive\app\src\main\AndroidManifest.xml:14:25-66
+24
+25                <category android:name="android.intent.category.LAUNCHER" />
+25-->C:\Android\Projects\Devintensive\app\src\main\AndroidManifest.xml:16:17-77
+25-->C:\Android\Projects\Devintensive\app\src\main\AndroidManifest.xml:16:27-74
+26            </intent-filter>
+27        </activity>
+28    </application>
+29
+30</manifest>
