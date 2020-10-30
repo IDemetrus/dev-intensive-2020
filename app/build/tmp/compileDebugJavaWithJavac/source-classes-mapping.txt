@@ -1,0 +1,2 @@
+com/example/devintensive/BuildConfig.java
+ com.example.devintensive.BuildConfig
